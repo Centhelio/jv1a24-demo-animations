@@ -3304,7 +3304,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 739fc6cc822d29146834196cb6f57206, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  door: {fileID: 0}
+  chest: {fileID: 1596024023}
 --- !u!65 &1008887352
 BoxCollider:
   m_ObjectHideFlags: 0
